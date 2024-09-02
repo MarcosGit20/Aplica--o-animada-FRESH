@@ -30,10 +30,10 @@
 
 .item .fruit {
     width: 90%;
-   /* position: absolute;*/
+   position: absolute;
     top: 0;
     z-index: 3;
-    margin: 116px;
+
 }
 
 .item .refri {
@@ -51,7 +51,7 @@
     top: 50%;
     transform: scaleY(-50%);
     width: 50px;
-    height: 85px;
+    height: 95px;
     background-color: #eee9;
     border: 1px solid #eee9;
     color: #eee;
